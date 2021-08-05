@@ -17,3 +17,5 @@ let phraseResult = "Result is: ";
 add(number1, number2, printResult, phraseResult);
 
 console.log(typeof number1);
+
+
