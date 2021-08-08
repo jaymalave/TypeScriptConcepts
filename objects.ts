@@ -19,3 +19,5 @@ let favActivities: string[];
 favActivities = ["cricket", "biking", "travelling"];
 
 console.log(person.name);
+
+
