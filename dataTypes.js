@@ -1,3 +1,4 @@
+"use strict";
 console.log("Hello World in the log");
 function add(n1, n2, showResult, phrase) {
     var result = n1 + n2;

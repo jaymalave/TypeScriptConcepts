@@ -1,4 +1,4 @@
-function add(n1: number, n2: number) {
+function addFunction(n1: number, n2: number) {
   return n1 + n2;
 }
 
@@ -12,7 +12,7 @@ function add(n1: number, n2: number) {
 
 let addPointer: (a: number, b: number) => number;
 
-addPointer = add;
+addPointer = addFunction;
 
 console.log(addPointer(4, 6));
 
